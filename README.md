@@ -1,4 +1,4 @@
-# REACT Chuck job portal
+# REACT APP Job portal
 ![React](https://aleen42.github.io/badges/src/react.svg)
 
 ## Creators
